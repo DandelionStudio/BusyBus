@@ -24,7 +24,7 @@ nav {
 }
 
 .restaurant-list {
-  padding-top: 50px;
+  padding-top: 45px;
   width: 100%;
   height: 30%;
 }
@@ -41,20 +41,22 @@ nav {
 }
 
 .arrow {
-  padding-left: 380px;
-  padding-bottom: 30px;
+  float: left;
+  margin-left: 8%;
 }
 
 .content h1 {
-  text-align: left;
-  padding-left: 20px;
-  font-size: 2em;
-  font-weight: bold;
+  float: left;
   padding-top: 20px;
+  margin-left: 5%;
+  font-size: 200%;
+  font-weight: bold;
+  width: 80%
 }
 
 .content h3 {
-  text-align: left;
-  padding-left: 20px;
-  font-size: 1.5em;
+  float: left;
+  margin-left: 5%;
+  font-size: 150%;
+  width: 80%
 }
