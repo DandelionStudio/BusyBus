@@ -42,12 +42,13 @@ nav {
 
 .arrow {
   float: left;
-  margin-left: 8%;
+  margin-top: -12px;
+  margin-left: 7%;
 }
 
 .content h1 {
   float: left;
-  padding-top: 20px;
+  margin-top: 5%;
   margin-left: 5%;
   font-size: 200%;
   font-weight: bold;
