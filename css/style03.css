@@ -81,7 +81,7 @@ input {
 .m-lens{
   display:inline;
   float:left;
-  margin-top: -3.25%;
+  margin-top: -4.25%;
   padding-left: 5%;
   color: #33ABA3;
 }
@@ -89,7 +89,7 @@ input {
 .microphone {
   display:inline;
   float:right;
-  margin-top: -3.5%;
+  margin-top: -4.5%;
   margin-right: 5%;
   color: #33ABA3;
 }
